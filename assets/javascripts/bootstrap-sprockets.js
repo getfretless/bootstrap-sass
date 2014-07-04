@@ -9,4 +9,5 @@
 //= require ./bootstrap/scrollspy
 //= require ./bootstrap/modal
 //= require ./bootstrap/tooltip
+//= require ./bootstrap/bootstrap-tooltip-extension
 //= require ./bootstrap/popover
